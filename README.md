@@ -1,7 +1,14 @@
 BEAC
 ====
 
-BEAC model - as originally published on 24 July 2014
+BEAC model - as originally published on 24 July 2014 includes the main report and the BEAC model (a spreadsheet - version BEAC1).
+
+Original download site 
+https://www.gov.uk/government/publications/life-cycle-impacts-of-biomass-electricity-in-2020
+
+
+This model is published under version 2.0 of the Open Government Licence 
+https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/ 
 
 Open Government Licence
 =======================
@@ -50,6 +57,7 @@ Non warranty
 The Information is licensed ‘as is’ and the Information Provider excludes all representations, warranties, obligations and liabilities in relation to the Information to the maximum extent permitted by law.
 
 The Information Provider is not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.
+
 Governing Law
 
 This licence is governed by the laws of the jurisdiction in which the Information Provider has its principal place of business, unless otherwise specified by the Information Provider.
