@@ -6,6 +6,8 @@ BEAC model - as originally published on 24 July 2014 includes the main report an
 Original download site 
 https://www.gov.uk/government/publications/life-cycle-impacts-of-biomass-electricity-in-2020
 
+Note that the User Guide document is in editable form here, not as a PDF, to encourage contrbutors to improve it.
+
 
 This model is published under version 2.0 of the Open Government Licence 
 https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/ 
